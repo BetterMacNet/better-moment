@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+._*
+
+# Build and editor output
+.build/
+DerivedData/
+*.xcuserstate
+*.log
+
+# Generated media and archives
+*.mp4
+*.mov
+*.zip
