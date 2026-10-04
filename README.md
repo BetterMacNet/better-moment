@@ -1,6 +1,6 @@
 # Better Moment
 
-English · [简体中文](README.zh-CN.md)
+English · [Chinese](README.zh-CN.md)
 
 <img src="assets/logo.png" alt="Better Moment" width="144">
 
@@ -44,15 +44,6 @@ Favorites and the last remaining photo in a group are protected. Photos you keep
 | Library overview | Organized results | Compare and keep |
 | ![Better Moment video review](screenshots/en/04-video.webp) | ![Better Moment pending](screenshots/en/05-pending.webp) | ![Better Moment confirmation](screenshots/en/06-confirm.webp) |
 | Browse videos | Review pending items | Confirm removal |
-
-### iPhone · 简体中文
-
-| | | |
-|---|---|---|
-| ![Better Moment 图库](screenshots/zh-Hans/01-library.webp) | ![Better Moment 结果](screenshots/zh-Hans/02-results.webp) | ![Better Moment 对比](screenshots/zh-Hans/03-compare.webp) |
-| 图库概览 | 整理后的结果 | 对比并保留 |
-| ![Better Moment 视频整理](screenshots/zh-Hans/04-video.webp) | ![Better Moment 待处理](screenshots/zh-Hans/05-pending.webp) | ![Better Moment 确认删除](screenshots/zh-Hans/06-confirm.webp) |
-| 浏览视频 | 检查待处理项目 | 确认移除 |
 
 ## Privacy first
 

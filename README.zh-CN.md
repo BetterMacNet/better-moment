@@ -1,6 +1,6 @@
 # Better Moment
 
-[English](README.md) · 简体中文
+[英文](README.md) · 简体中文
 
 <img src="assets/logo.png" alt="Better Moment" width="144">
 
@@ -35,15 +35,6 @@ Better Moment 只有一个简单的承诺：建议不是删除。
 收藏的照片和每组最后一张始终受保护。你选择保留的照片不会被动过。
 
 ## 截图
-
-### iPhone · English
-
-| | | |
-|---|---|---|
-| ![Better Moment library](screenshots/en/01-library.webp) | ![Better Moment results](screenshots/en/02-results.webp) | ![Better Moment compare](screenshots/en/03-compare.webp) |
-| 图库概览 | 整理后的结果 | 对比并保留 |
-| ![Better Moment video review](screenshots/en/04-video.webp) | ![Better Moment pending](screenshots/en/05-pending.webp) | ![Better Moment confirmation](screenshots/en/06-confirm.webp) |
-| 浏览视频 | 检查待处理项目 | 确认移除 |
 
 ### iPhone · 简体中文
 
