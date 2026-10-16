@@ -6,7 +6,9 @@ English · [Chinese](README.zh-CN.md)
 
 **An on-device photo curator for the moments worth keeping.**
 
-Better Moment helps you make room in a crowded photo library without handing over the memories. It groups duplicates and similar shots, surfaces blurry photos and screenshots, and lets you decide what stays. Nothing is deleted before you confirm it.
+Better Moment helps you make room in a crowded photo library without handing over the memories. It groups duplicates and similar shots, surfaces blurry photos and screenshots, and lets you compare photos, review videos, and decide what stays. Nothing is deleted before you confirm it.
+
+The current App Store release supports iPhone and iPad with iOS 18 / iPadOS 18 or later.
 
 ## Learn more
 
